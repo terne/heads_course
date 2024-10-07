@@ -1,2 +1,2 @@
 2 onions
-mushroom
+10 mushrooms
