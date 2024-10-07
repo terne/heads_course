@@ -1,3 +1,4 @@
 2 onions
 10 mushrooms
 1 parsley
+1 carrot
